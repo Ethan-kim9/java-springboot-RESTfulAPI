@@ -2,7 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/maven,macos,visualstudiocode,intellij,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=maven,macos,visualstudiocode,intellij,java
 
-.java-springboot-RESTfulAPI.iml
+java-springboot-RESTfulAPI.iml
+mvnw
+mvnw.cmd
 .mvn
 
 ### Intellij ###
