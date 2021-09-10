@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>me.ethan</groupId>
-    <artifactId>java-springboot-RESTfulAPI</artifactId>
+    <artifactId>java-springboot-RESTAPI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>java-springboot-RESTfulAPI</name>
+    <name>springboot</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
